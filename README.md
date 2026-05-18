@@ -22,3 +22,18 @@ S3
 AWS CLI
 Git & GitHub
 CI/CD
+
+# Outcomes
+Improved scalability with automatic resource scaling
+Reduced server maintenance using serverless architecture
+Achieved faster deployment and reliable performance
+Enhanced application monitoring and security practices
+
+# Features
+Serverless backend architecture
+REST API integration
+Event-driven processing
+Automatic scaling
+Secure access management
+Monitoring and logging
+CI/CD automation
