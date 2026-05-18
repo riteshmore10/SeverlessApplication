@@ -11,3 +11,14 @@ Enabled monitoring and logging with CloudWatch
 Automated deployment using CI/CD pipelines
 Integrated event-driven workflows for better scalability
 Optimized performance and reduced infrastructure management cost
+
+# Technologies Used
+AWS Lambda
+API Gateway
+DynamoDB
+CloudWatch
+IAM
+S3
+AWS CLI
+Git & GitHub
+CI/CD
