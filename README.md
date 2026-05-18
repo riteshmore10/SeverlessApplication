@@ -1,4 +1,6 @@
 # SeverlessApplication 
+Built a scalable Serverless Application on AWS using modern cloud-native services and automation practices. The project was designed to provide high availability, low operational cost, automatic scaling, and secure API handling without managing physical servers.
+
 # Key Features
 Developed a fully serverless architecture using AWS services
 Implemented backend logic using AWS Lambda
